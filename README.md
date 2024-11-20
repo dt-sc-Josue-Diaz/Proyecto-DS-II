@@ -10,15 +10,11 @@ Las instituciones financieras dependen de este análisis para minimizar pérdida
 
 En este proyecto, exploramos los datos para identificar patrones y factores que puedan predecir cambios en el perfil de los clientes y así estimar la probabilidad de impago.
 
-
-
 # Entrega
 
 Este proyecto tiene como entrega una carpeta de drive. Pero esta respaldado en el [perfil de github](https://github.com/dt-sc-Josue-Diaz/Proyecto-DS-II).
 
 En esta entrega obtuvimos un modelo de XGBoost para predercir la morosidad de un cliente que tiene cierto perfil bancario.  
-
-
 
 Obtuvimos este resultado;
 
@@ -54,8 +50,6 @@ Obtuvimos este resultado;
 **Accuracy**: 0.80  
 **Macro Avg**: Precision=0.80, Recall=0.80, F1-Score=0.80  
 **Weighted Avg**: Precision=0.80, Recall=0.80, F1-Score=0.80  
-
-
 
 ## Referencias
 
